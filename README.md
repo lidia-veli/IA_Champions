@@ -1,3 +1,5 @@
+link repo: https://github.com/lidia-veli/IA_Champions/tree/main
+
 # Proyecto UEFA Champions League (main)
 
 Sistema Bookmaker-DS: Plataforma de Apuestas Deportivas para la UEFA Champions League.  
