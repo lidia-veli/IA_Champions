@@ -1,14 +1,20 @@
-link repo: https://github.com/lidia-veli/IA_Champions/tree/main
+link repo: https://github.com/lidia-veli/IA_Champions/tree/fase_3
 
-# Proyecto UEFA Champions League (main)
+# Proyecto UEFA Champions League (Fase 2): Modelos de Aprendizaje No-Supervisado y Series Temporales
 
-Sistema Bookmaker-DS: Plataforma de Apuestas Deportivas para la UEFA Champions League.  
+Clasificación, clusterización y series temporales
 
 ## Descripción
-Bookmaker-DS es una plataforma innovadora diseñada para ofrecer apuestas en partidos de la UEFA Champions League. Con una interfaz intuitiva y un eficiente sistema de gestión, proporciona una experiencia única para los aficionados al fútbol.
+Debéis realizar la clusterización con estos puntos:
+- Aprendizaje No-Supervisado en Python
+- Ingeniería de variables (Feature engineering)
+- Centroid-based Clustering (K-Means , Mean-Shift & Mini-Batch K-Means)
+- Density-based clustering (DBSCAN, OPTICS)
+- Distribution-based clustering (GMM)
+- Hierarchical clustering (Agglomerative Clustering)
 
-## Instalación
-Para comenzar, es necesario clonar el repositorio desde [https://github.com/rubences/Api_Casas_Apuestas.git]. Luego, se crea un archivo .env siguiendo el modelo en .env-example. Finalmente, se ejecuta ./install.sh para configurar el entorno virtual e instalar los módulos necesarios.
-
-## Puesta en marcha
-Tras la instalación, el servidor se inicia con ./boot.sh, activando las funcionalidades de apuestas.
+Para realizar las series temporales:
+- Time Series Forecasting en Python
+- Modelos estadísticos (AR, ARIMA, SARIMA, Exponential Smoothing)
+- Recursive Forecasting (Random Forest, Gradient Boosting Regression)
+- Multivariate Forecasting, Ensemble modeling
